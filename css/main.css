@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+header .bg-claro{
+    justify-content: end;
+    background-color: #fe0000;
+}
+
+.form-inline .form-control{
+    padding: 0 12em;
+}
+
+.nav-item{
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.nav-item img{
+    margin: 0 20px;
+}
+
+nav{
+    padding-right: 10px;
+    text-align: right;
+    color: aqua;
+}
+
+
+/* services */
+   
+.container{
+    max-width: 1255px;
+}
+.tit-sechome{
+    margin: 0 2em;
+    padding: 0.5em 0;
+}
+
+.nav-item img{
+    margin: 0 10px;
+}
+.cellphone .row img{
+    margin: 1em 1em;
+    vertical-align: middle;
+    border-style: none;
+    max-width: 100%;
+}
+#tecnologia .row img{
+    margin: 1em 1em;
+    vertical-align: middle;
+    border-style: none;
+    max-width: 100%;
+}
+
+
+#recomend .col-4 {
+    text-align: center;
+}
+#recomend .col-4 h3{
+    font-size: 1.3em;
+    padding: 2em 2em;
+}
+#recomend .col-4 .btn-link{
+    display: table-cell;
+    border-radius: 2px;
+    height: 40px;
+    line-height: normal;
+    text-align: center;
+    width: 120px;
+    border: 1px solid #1493ab; 
+    color: #1493ab; 
+    margin:1em 1em;
+    
+}
+#personas .row{
+    background-color: #dfdfdf;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+footer{
+    background-color: black;
+    font-size: 2em;
+    color: white;
+    
+}
+.h2, h2{
+    font-size: 0.4em;
+    display: inline;
+}
+.bg-dark{
+    background-color: black!important;
+}
+#personas h3{
+    background: #cacaca;
+    padding:0.4em 6.8em;
+    font-size: 1.5em;
+    margin: 0% auto;
+}
+
